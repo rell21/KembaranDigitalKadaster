@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@mapbox-controls/ruler": "^3.0.0",
+    "@mapbox/mapbox-gl-traffic": "^1.0.2",
+    "cesium": "^1.123.1",
+    "http-server": "^14.1.1",
+    "mapbox-gl": "^3.8.0",
+    "mapbox-gl-ruler-control": "^0.0.2",
+    "supports-color": "^9.4.0"
+  }
+}
